@@ -1,3 +1,3 @@
 ### I code, maybe
 
-Javascript is hard. Motivation is low.
+Coding is hard. Motivation is low.
