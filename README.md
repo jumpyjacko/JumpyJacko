@@ -1,3 +1,3 @@
 ### I code, maybe
 
-Coding is hard. Motivation is low.
+I like Rust but I'm terrible at Rust.
